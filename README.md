@@ -1,6 +1,6 @@
 # Hi there, I'm Jivant L. 👋
 
-![GIF](your-gif-url.com)
+![GIF](https://i.gifer.com/JpAd.gif)
 
 ## 🚀 About Me
 I'm a **Cybersecurity Enthusiast & Penetration Tester** with expertise in:
