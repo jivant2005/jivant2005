@@ -41,9 +41,9 @@
 ---
 
 ## 📜 Certifications
-- 🔰 FCA - Fortinet Certified Associate (2024)
-- 🔰 FCF - Fortinet Certified Fundamentals (2024)
-- 🔰 FCP - Fortigate 7.4 Administrator (2025)
+-  FCA - Fortinet Certified Associate (2024)
+-  FCF - Fortinet Certified Fundamentals (2024)
+-  FCP - Fortigate 7.4 Administrator (2025)
 
 ---
 
