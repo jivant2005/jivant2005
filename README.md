@@ -53,7 +53,7 @@
   <a href="mailto:jivantloganathan2005@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" style="margin: 8px" alt="Gmail">
   </a>
-  <a href="https://github.com/ijvant2005">
+  <a href="https://github.com/jvant2005">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" style="margin: 8px" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/jivantloganathan">
